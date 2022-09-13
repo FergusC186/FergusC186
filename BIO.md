@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FergusC186
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning all things PowerPlatform
+- 👀 I’m interested in data analysis & data science
+- 🌱 I’m currently focusing on PowerBI and other PowerPlatform apps
 - 📫 fergusconcannon@outlook.com
 
 <!---
